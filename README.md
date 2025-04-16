@@ -16,7 +16,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud ☁️ while f
  
  👯 I’m looking to collaborate on a Flutter and ML-based project **Doc App**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
+
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
