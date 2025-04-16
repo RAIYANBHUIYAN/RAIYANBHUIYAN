@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  
 </p>
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud ☁️ while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. 😉
@@ -52,9 +52,6 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud ☁️ while f
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
-
-Check for detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
 
 ---
 
