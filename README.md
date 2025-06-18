@@ -2,9 +2,11 @@
 
 📚 I’m currently learning <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and exploring <img src="https://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white">.
 
+🧠 I'm also working in **Quantum Computing** using **Qiskit**.
+
 🤝 Looking to collaborate on a **Flutter + ML based Health App** — _Doc App_.
 
-💬 Ask me about **Full Stack Development**, **DevOps**, **Cloud Infrastructure**, or anything **Tech-related**!
+💬 Ask me about **Full Stack Development**, **DevOps**, **Cloud Infrastructure**, **Quantum Computing**, or anything **Tech-related**!
 
 ---
 
@@ -30,8 +32,9 @@
 <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white">
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black">
 
-#### 🧠 Machine Learning
+#### 🧠 Machine Learning & Quantum Computing
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=ibm&logoColor=white">
 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
