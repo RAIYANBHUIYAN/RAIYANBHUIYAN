@@ -1,76 +1,159 @@
-### Hey, Mohammod Raiyan Buhiyan Loreen here 👋
+<h1 align="center">Hi, I'm Md Raiyan Buhiyan Loreen 👋</h1>
 
-📚 I’m currently learning <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and exploring <img src="https://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white">.
+<p align="center">
+  <b>Computer Vision Engineer • AI/ML Engineer • CSE Graduate</b><br/>
+  Building intelligent systems at the intersection of <b>AI</b>, <b>DevOps</b>, <b>Cloud</b>, and <b>Quantum Computing</b>.
+</p>
 
-🧠 I'm also working in **Quantum Computing** using **Qiskit**.
-
-🤝 Looking to collaborate on a **Flutter + ML based Health App** — _Doc App_.
-
-💬 Ask me about **Full Stack Development**, **DevOps**, **Cloud Infrastructure**, **Quantum Computing**, or anything **Tech-related**!
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 💻 Frontend
-<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-
-#### 🌐 Backend
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/-Deno-000000?style=flat&logo=deno&logoColor=white">
-
-#### ☁️ Cloud & DevOps
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
-<img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black">
-
-#### 🧠 Machine Learning & Quantum Computing
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=ibm&logoColor=white">
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
-
-#### 🗄️ Database
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<p align="center">
+  <a href="https://portfolio-psi-henna-11.vercel.app" target="_blank">Portfolio</a> •
+  <a href="https://github.com/RAIYANBHUIYAN" target="_blank">GitHub</a> •
+  <a href="https://www.linkedin.com/in/raiyanbuhiyan" target="_blank">LinkedIn</a>
+</p>
 
 ---
 
-### 👨‍💻 Programming Languages
+### About Me
 
-<img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white">
+I am a Computer Vision and AI/ML enthusiast focused on solving real-world problems through deep learning, automation, and scalable software systems.
 
----
+My work spans:
+- Medical image segmentation and explainable AI
+- Full-stack AI applications with MLOps and security best practices
+- DevOps, CI/CD, containers, and cloud-native deployment
+- Quantum computing exploration with Qiskit
+- Flutter-based product ideas for health-tech
 
-### 📊 GitHub Stats
-
-![Profile views](https://gpvc.arturio.dev/RAIYANBUHIYAN)
-[![](https://img.shields.io/github/followers/RAIYANBUHIYAN?label=Follow&style=social)](https://github.com/RAIYANBUHIYAN)
+I enjoy building systems that are not only accurate, but also reproducible, observable, secure, and ready for production.
 
 ---
 
-### 📬 Connect with Me
+### Current Interests
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/raiyanbuhiyan)
-[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/mischievous_uchiha/)
-<br/>
+- **Flutter** and mobile app development
+- **Deno** for modern backend workflows
+- **Quantum Computing** with **Qiskit**
+- **Health-tech** solutions, especially a **Flutter + ML based health app** called **Doc App**
 
 ---
 
-### 📖 Check Out My Blog
+### Technical Expertise
 
-[![Medium Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=RAIYANBUHIYAN&type=vertical)](https://medium.com/@RAIYANBUHIYAN)
+#### Computer Vision & AI
+- PyTorch, TensorFlow/Keras, OpenCV, scikit-learn, NumPy, MONAI
+- Image segmentation, classification, object detection, anomaly detection
+- Grad-CAM, explainable AI, model evaluation, hyperparameter tuning
+- Transformer-based and CNN-based architectures
+
+#### Backend & Full-Stack
+- FastAPI, REST APIs, Node.js, Express.js, Next.js
+- JWT authentication, secure API design, model inference services
+- MongoDB, MySQL
+
+#### DevOps & Cloud
+- Docker, Kubernetes, Jenkins, GitHub Actions
+- CI/CD, deployment automation, monitoring dashboards
+- Linux, Git, CUDA, observability, dataset versioning
+- Firebase, Google Cloud, Terraform
+
+#### Programming Languages
+- Python, C++, Java, JavaScript, Dart, SQL, C
+
+#### Quantum Computing
+- Qiskit
+- Quantum machine learning exploration
+- Quantum circuit design and experimentation
+
+---
+
+### Featured Projects
+
+#### 🧠 Brain Tumor Segmentation Research
+**Tech:** Python • PyTorch • OpenCV • MONAI • Grad-CAM • CUDA  
+Built end-to-end computer vision pipelines for medical image segmentation, including preprocessing, training, validation, ablation studies, and explainability through Grad-CAM.
+
+#### 🤖 Email Generation Assistant
+**Tech:** Python • FastAPI • Next.js • Docker • GitHub Actions  
+A full-stack AI application with:
+- FastAPI inference backend
+- model fallback and resilience
+- evaluation pipeline and benchmarking
+- observability dashboard for latency, quality, and failure tracking
+- security features like token-protected routes, restricted CORS, and input sanitization
+
+#### ⚙️ DevOps Blog
+**Tech:** React • Docker • GitHub Actions • Kubernetes (k0s) • Nginx  
+A CI/CD-focused project demonstrating containerized frontend deployment, Kubernetes orchestration, and automated delivery workflows.
+
+#### 🛒 Haat-Bazar
+**Tech:** React • Node.js • Express • MongoDB • JWT  
+A full-stack e-commerce platform with multi-role support, product management, search/filtering, cart, order processing, and secure authentication.
+
+---
+
+### Publications
+
+- **HL-SwinUNETR-XAI: Hybrid-Loss Optimized Swin-UNETR with Grad-CAM for Multimodal 3D Brain Tumor Segmentation**  
+  First-author conference paper published in IEEE Xplore.
+
+- **MSB-2.5DUNet++: Multi-Scale Bottleneck Enhanced 2.5D UNet++ with EfficientNet Encoder for Explainable Brain Tumor Segmentation**  
+  Accepted manuscript in MIJST.
+
+---
+
+### What I Can Help With
+
+- AI / ML / Deep Learning
+- Computer Vision
+- DevOps and Cloud Infrastructure
+- Full-Stack Development
+- Quantum Computing
+- Technical Research and Academic Projects
+- Secure and scalable production systems
+
+---
+
+### Tools & Stack
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=ibm&logoColor=white">
+</p>
+
+---
+
+### Portfolio & Live Projects
+
+- **Portfolio:** [Visit Portfolio](https://portfolio-psi-henna-11.vercel.app)
+- **GitHub:** [RAIYANBHUIYAN](https://github.com/RAIYANBHUIYAN)
+
+#### Live Projects
+- **Doc App:** [Live Demo](YOUR_LIVE_DEMO_LINK)
+- **Doc App Source:** [GitHub Repo](YOUR_GITHUB_REPO_LINK)
+- **Email Generation Assistant:** [Live Demo](YOUR_LIVE_DEMO_LINK)
+- **Email Generation Assistant Source:** [GitHub Repo](YOUR_GITHUB_REPO_LINK)
+
+---
+
+### Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/raiyanbuhiyan" target="_blank">LinkedIn</a> •
+  <a href="mailto:mdraiyanbuhiyaloreen@gmail.com">Email</a> •
+  <a href="https://github.com/RAIYANBHUIYAN" target="_blank">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building practical AI systems, one project at a time.</i>
+</p>
